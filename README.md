@@ -80,7 +80,7 @@ The following architectures were evaluated:
 
 | Model          | Accuracy   | Weighted F1 |
 | -------------- | ---------- | ----------- |
-| EEGNet         | ~0.55–0.62 | ~0.52–0.62  |
+| EEGNet         | ~0.54      | ~0.52 |
 | ShallowConvNet | ~0.45      | ~0.45       |
 | DeepConvNet    | ~0.43      | ~0.37       |
 | ATCNet         | ~0.46      | ~0.42       |
